@@ -12,18 +12,18 @@ This project was a direct, hands-on application of the full-stack development sk
 
 As the sole developer for this static site, I was responsible for:
 
-*Translating design mockups into responsive HTML5 and CSS3.
-*Implementing and customizing JavaScript libraries (like jQuery, bxslider, and touchTouch) to create an interactive user experience.
-*Integrating the Bootstrap framework to ensure the layout was responsive and mobile-friendly.
-*Structuring the site architecture, navigation, and content for clarity and ease of use.
+*Translating design mockups into responsive HTML5 and CSS3.  
+*Implementing and customizing JavaScript libraries (like jQuery, bxslider, and touchTouch) to create an interactive user experience.  
+*Integrating the Bootstrap framework to ensure the layout was responsive and mobile-friendly.  
+*Structuring the site architecture, navigation, and content for clarity and ease of use.  
 
 ## Technology Stack
 
 This site was built using the standard web technologies of the time, demonstrating foundational "full-stack" knowledge:
 
-*HTML5
-*CSS3 (including custom stylesheets and the Bootstrap framework)
-*JavaScript
-*jQuery (for DOM manipulation, effects, and plugins)
-*bxslider.js (for the homepage image slider)
-*touchTouch.jquery.js (for the image gallery functionality)
+*HTML5  
+*CSS3 (including custom stylesheets and the Bootstrap framework)  
+*JavaScript  
+*jQuery (for DOM manipulation, effects, and plugins)  
+*bxslider.js (for the homepage image slider)  
+*touchTouch.jquery.js (for the image gallery functionality)  
